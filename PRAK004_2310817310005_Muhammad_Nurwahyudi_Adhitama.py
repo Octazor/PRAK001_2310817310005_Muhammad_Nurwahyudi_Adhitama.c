@@ -1,0 +1,6 @@
+print("##################################\n")
+print("#	                         #\n")
+print("#  Muhammad Nurwahyudi Adhitama  #\n")
+print("#          231081731005          #\n")
+print("#                                #\n")
+print("##################################\n")
