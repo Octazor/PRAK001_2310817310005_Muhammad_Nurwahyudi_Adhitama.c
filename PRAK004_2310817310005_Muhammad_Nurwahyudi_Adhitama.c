@@ -1,4 +1,5 @@
 #include <stdio.h>
+
  void main()
  {
     char nama[30] = "Muhammad Nurwahyudi Adhitama";
